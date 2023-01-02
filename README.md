@@ -89,7 +89,7 @@ _I'd love to hear any feedback or just thoughts. Feel free to reach out at my co
   <!-- [![fontawesome]][fontawesome-url] -->
   <!-- [![  <!-- [formik] -->
 
-#### Backend
+<!-- #### Backend -->
 
 <!-- - **API** -->
   <!-- [![node]][node-url] -->
@@ -358,8 +358,10 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 [laravel-url]: https://laravel.com -->
 <!-- [next]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [next-url]: https://nextjs.org/ -->
-<!-- [react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/ -->
+
+[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://reactjs.org/
+
 <!-- [svelte]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [svelte-url]: https://svelte.dev/ -->
 <!-- [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
@@ -384,8 +386,9 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 [chakra-ui-url]: https://chakra-ui.com/ -->
 <!-- [material-ui]: https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white
 [material-ui-url]: https://mui.com/ -->
-<!-- [tailwind]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-[tailwind-url]: https://tailwindcss.com/ -->
+
+[tailwind]: https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
 
 <!-- MOBILE -->
 
@@ -475,8 +478,10 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 
 <!-- [heroku]: https://img.shields.io/badge/Heroku-563D7C?style=for-the-badge&logo=heroku&logoColor=white
 [heroku-url]: https://www.heroku.com/ -->
-<!-- [netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-[netlify-url]: https://www.netlify.com/ -->
+
+[netlify]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+[netlify-url]: https://www.netlify.com/
+
 <!-- [vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
 [vercel-url]: https://vercel.com/ -->
 
