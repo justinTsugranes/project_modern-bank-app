@@ -14,8 +14,6 @@
 
 ### [Modern Banking App][project-url]
 
-<!-- TODO: ADD SHORT PROJECT DESCRIPTION -->
-
 React frontend for a modern banking app. Styled with Tailwind CSS
 
 [Explore the docs][repo-url] --- [View Demo][project-url] --- [Report Bug][issues-url]
@@ -53,8 +51,6 @@ React frontend for a modern banking app. Styled with Tailwind CSS
 <!-- LONG_PROJECT_DESCRIPTION -->
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
-
-<!-- TODO: UNCOMMENT APPLICABLE TECH -->
 
 ### Stack
 
@@ -327,8 +323,7 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 
 ---
 
-<!-- TODO: UPDATE PROJECT INFO: HIGHLIGHT AND CMD+D TO SELECT ALL OCCURRANCES - CHANGE TO PROJECT TITLE -->
-<!-- !! LINK & IMAGE VARIABLES -->
+<!-- LINK & IMAGE VARIABLES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [project-screenshot]: images/project-screenshot.jpg
@@ -345,8 +340,7 @@ Send me some [![bitcoin]][bitcoin-address] or [![ethereum]][ethereum-address] --
 [license-shield]: https://img.shields.io/github/license/justintsugranes/project_modern-bank-app.svg?style=for-the-badge
 [license-url]: https://github.com/justinTsugranes/project_modern-bank-app/blob/main/LICENSE.md
 
-<!-- TODO: UNCOMMENT USED TECH -->
-<!-- !! TECH SHIELD VARIABLES -->
+<!-- TECH SHIELD VARIABLES -->
 
 <!-- JS LIBRARIES / FRAMEWORKS -->
 
