@@ -46,9 +46,7 @@ React frontend for a modern banking app. Styled with Tailwind CSS
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
-<!-- TODO: ADD LONG PROJECT DESCRIPTION -->
-
-<!-- LONG_PROJECT_DESCRIPTION -->
+This Modern Banking App is a responsive frontend web application designed to provide a sleek and intuitive interface for managing personal finances. Built using React and TailwindCSS, the app features a clean and modern design that is easy to navigate and use.
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
